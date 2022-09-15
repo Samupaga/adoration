@@ -1,2 +1,2 @@
 # adoration
-A repository for testing
+A repository for describing and testing a function displaying amount of love.
